@@ -10,7 +10,7 @@
    
    개발 툴: jupyter notebook
    
-   모델 설계 언어: python
+   딥러닝: python
    
    torch, pandas, numpy, opencv, albumentations
    
